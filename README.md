@@ -1,9 +1,10 @@
 # Microplastic-Detection-in-Soil
-This repository contains code for the Microplastic detection in soil using Machine Learning.
+This repository contains code for the Microplastic detection in soil using Machine Learning. Slide: [Microplastic Detection using ML slides](https://docs.google.com/presentation/d/1-JyTMcrW0QbjeIUUtujyMIGbh0IUdxathQUnkLJJ3Ts/edit?usp=sharing)
+
 # How to use
-Prerequistics: Python 3.x 
-Install libraries through pip:
-`pip install -r requirements.txt`
+1.Prerequistics: Python 3.x 
+2. Install libraries through pip:  `pip install -r requirements.txt`
+3. Run the Notebook
 
 # Introduction
 Microplastics are plastic particles smaller than 5mm.
